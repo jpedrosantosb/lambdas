@@ -1,0 +1,5 @@
+Maria,maria@gmail.com,3200.00
+Jose,jose@gmail.com,1900.00
+Joao,joao@gmail.com,1700.00
+Gabi,gabi@gmail.com,3500.00
+Kauan,kaka@gmail.com,2800.00
